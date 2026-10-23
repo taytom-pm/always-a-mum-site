@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Home.dc.html"
+    }
+  ],
+  "functions": {
+    "api/checkout.js": {
+      "includeFiles": "products.json"
+    }
+  }
+}

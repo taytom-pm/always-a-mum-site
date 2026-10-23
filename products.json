@@ -1,0 +1,58 @@
+[
+  {
+    "id": "journal",
+    "category": "Journal",
+    "title": "The Waiting Room Journal",
+    "short": "A guided journal for weekly reflection, used in our sessions.",
+    "price": 1800,
+    "photoUrl": "https://images.pexels.com/photos/6216279/pexels-photo-6216279.jpeg?auto=compress&cs=tinysrgb&w=800&h=1067&fit=crop",
+    "body": [
+      "A guided journal for weekly reflection, used in our sessions. Each week opens with a short prompt drawn from conversations in The Waiting Room, followed by space to write freely. There are pages for the hard days and the hopeful ones, and nothing asks you to be further along than you are.",
+      "A5, 120 pages, lay-flat binding, so it stays open on the table while you write."
+    ],
+    "quote": "Nobody tried to fix me. They just made room.",
+    "quoteBy": "Kemi Faloye"
+  },
+  {
+    "id": "cards",
+    "category": "Cards",
+    "title": "Reflection Cards",
+    "short": "Forty prompt cards for quiet moments or group conversation.",
+    "price": 2200,
+    "photoUrl": "https://images.pexels.com/photos/8829191/pexels-photo-8829191.jpeg?auto=compress&cs=tinysrgb&w=800&h=1067&fit=crop",
+    "body": [
+      "Forty prompt cards for quiet moments or group conversation. Use them alone with a cup of tea, with a partner at the end of the day, or to open a circle with friends.",
+      "The questions are gentle, honest and written by mums who have sat with the same feelings. Boxed set, printed on thick matte card."
+    ],
+    "quote": "I came for one session and stayed for four years.",
+    "quoteBy": "Zee"
+  },
+  {
+    "id": "tote",
+    "category": "Accessories",
+    "title": "Community Tote",
+    "short": "Canvas tote carrying the Always a Mum mark.",
+    "price": 1600,
+    "photoUrl": "https://images.pexels.com/photos/5711985/pexels-photo-5711985.jpeg?auto=compress&cs=tinysrgb&w=800&h=1067&fit=crop",
+    "body": [
+      "Canvas tote carrying the Always a Mum mark. Roomy enough for a laptop, a change of clothes or the weekly shop, and sturdy enough to last for years.",
+      "Natural cotton canvas with long shoulder straps. Every tote sold helps keep The Waiting Room free for anyone who needs it."
+    ],
+    "quote": "Nobody tried to fix me. They just made room.",
+    "quoteBy": "Kemi Faloye"
+  },
+  {
+    "id": "mug",
+    "category": "Home",
+    "title": "Always a Mum Mug",
+    "short": "Stoneware mug, made for slow mornings.",
+    "price": 1400,
+    "photoUrl": "https://images.pexels.com/photos/7358502/pexels-photo-7358502.jpeg?auto=compress&cs=tinysrgb&w=800&h=1067&fit=crop",
+    "body": [
+      "Stoneware mug, made for slow mornings. A reminder on the kitchen shelf that you are not alone, whatever the day brings.",
+      "Generously sized for a proper cup of tea, with a soft glaze and the Always a Mum mark on the side. Dishwasher and microwave safe."
+    ],
+    "quote": "I came for one session and stayed for four years.",
+    "quoteBy": "Zee"
+  }
+]
